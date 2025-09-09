@@ -1,3 +1,3 @@
 # My_Projects
 This my Project repository<br>
-|Author - Ruchita Chaudhari
+|Author - Ruchita Chaudhari ruchi
